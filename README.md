@@ -65,6 +65,22 @@ This project uses near real-time data from USGS (magnitude 2.5+ from the past 30
 
 <img width="1027" height="592" alt="image" src="https://github.com/user-attachments/assets/9b8cecf2-e3da-45c7-8bfa-e1bc9ccce7fb" />
 
+## OTHER SCREENSHOTS OF JUPYTER NOTEBOOK
+**1.descriptive statistics**
+![descriptivestatitics](https://github.com/user-attachments/assets/92c08ca0-ccba-4037-820b-dc3789a89840)
+**2.distribution of earthquake depth**
+![frequencyanddepth](https://github.com/user-attachments/assets/0bdf1880-2609-4005-b03f-c04985040b57)
+**3.distribution of earthquake magnitudes**
+![frequencyandmagnitude](https://github.com/user-attachments/assets/7ecf646e-84e1-4383-a8d9-4f7e22b5386e)
+**4. earthquake magnitudes vs depth**
+![magnitudeanddepth](https://github.com/user-attachments/assets/050be6d7-7619-427d-9681-69e51b60bf7f)
+**5. count of eartquake types** 
+![typeandcount](https://github.com/user-attachments/assets/dd42a350-5cc8-44a1-9f8a-6ab8b9793a07)
+**6. earthquake clusters by location and magnitude**
+![step3diagram](https://github.com/user-attachments/assets/6b6fed59-b763-4aea-8198-54262d1de223)
+**7. silhouttes score**
+![step4silhouttescore](https://github.com/user-attachments/assets/8094569c-83df-4f65-abe0-3e321f6ed4bc)
+
 ---
 
 ## 💡 Key Insights
